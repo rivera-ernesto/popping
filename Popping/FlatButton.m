@@ -7,7 +7,7 @@
 //
 
 #import "FlatButton.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 
 @interface FlatButton()
 - (void)setup;

@@ -8,7 +8,7 @@
 
 #import "PaperButtonViewController.h"
 #import "PaperButton.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 #import "UIColor+CustomColors.h"
 
 @interface PaperButtonViewController()

@@ -7,7 +7,7 @@
 //
 
 #import "ImageViewController.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 #import "UIColor+CustomColors.h"
 #import "ImageView.h"
 

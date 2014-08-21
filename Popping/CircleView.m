@@ -7,7 +7,7 @@
 //
 
 #import "CircleView.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 
 @interface CircleView()
 @property(nonatomic) CAShapeLayer *circleLayer;

@@ -9,7 +9,7 @@
 #import "ButtonViewController.h"
 #import "FlatButton.h"
 #import "UIColor+CustomColors.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 
 @interface ButtonViewController()
 @property (nonatomic) UILabel *errorLabel;

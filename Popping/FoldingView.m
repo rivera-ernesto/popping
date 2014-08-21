@@ -8,7 +8,7 @@
 
 #import "FoldingView.h"
 #import "UIImage+Blur.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 
 typedef NS_ENUM(NSInteger, LayerSection) {
     LayerSectionTop,

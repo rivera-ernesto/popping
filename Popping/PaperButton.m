@@ -7,7 +7,7 @@
 //
 
 #import "PaperButton.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 
 @interface PaperButton()
 @property(nonatomic) CALayer *topLayer;

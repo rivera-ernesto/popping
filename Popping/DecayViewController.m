@@ -7,7 +7,7 @@
 //
 
 #import "DecayViewController.h"
-#import <POP/POP.h>
+#import <pop/POP.h>
 #import "UIColor+CustomColors.h"
 
 @interface DecayViewController() <POPAnimationDelegate>
